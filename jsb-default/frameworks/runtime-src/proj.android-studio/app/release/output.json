@@ -1,0 +1,18 @@
+[
+    {
+        "outputType": {
+            "type": "APK"
+        },
+        "apkInfo": {
+            "type": "MAIN",
+            "splits": [],
+            "versionCode": 1
+        },
+        "path": "HelloWorld-release.apk",
+        "properties": {
+            "packageId": "org.cocos2d.helloworld",
+            "split": "",
+            "minSdkVersion": "10"
+        }
+    }
+]
